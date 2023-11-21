@@ -28,11 +28,6 @@ function displayResult(){
 }
 
 
-// function displayResult(){
-//     output.innerHTML = "Hi"
-
-// }
-
 function clear(){
     location.reload() 
 }
